@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Garbage sorting</string>
+    <string name="what_text">What? </string>
+    <string name="where_text">Where?</string>
+    <string name="where_button">WHERE</string>
+    <string name="info_button">INFO</string>
+    <string name="add_button">ADD</string>
+    <string name="delete_button">DELETE</string>
+    <string name="empty_toast">Please type something</string>
+    <string name="title_activity_add">addActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
